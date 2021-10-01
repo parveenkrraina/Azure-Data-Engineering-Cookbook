@@ -55,12 +55,6 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800206557_ColorImages.pdf).
 
-
-### Related products <Other books you may enjoy>
-* Data Engineering with Python [[Packt]](https://www.packtpub.com/product/data-engineering-with-python/9781839214189) [[Amazon]](https://www.amazon.com/dp/183921418X)
-
-* Python Data Cleaning Cookbook [[Packt]](https://www.packtpub.com/product/python-data-cleaning-cookbook/9781800565661) [[Amazon]](https://www.amazon.com/dp/1800565666)
-
 ## Get to Know the Author
 **Ahmad Osama** works for Pitney Bowes Pvt Ltd as a database engineer and is a Microsoft Data Platform MVP. In his day to day job at Pitney Bowes, he works on developing and maintaining high performance on-premises and cloud SQL Server OLTP environments, building CI/CD environments for databases and automation. Other than his day to day work, he regularly speaks at user group events and webinars conducted by the DataPlatformLabs community.
 
